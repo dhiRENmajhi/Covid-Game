@@ -1,7 +1,7 @@
 # COVID GAME
 
 
-### **Covid Game**: A 2D Endless runner made using <mark> **pygame** </mark> module in `**Python**`
+### **Covid Game**: A 2D Endless runner made using <mark>pygame</mark> module in `Python`
 
 ## **Features of the game-**
 
@@ -23,4 +23,10 @@
 ### `Survive for as long as you can`
 
 ## **Screen Shots of the game-**
-! [ss1] (Game ScreenShot-1.png)
+![screenshot1](GameScreenShot-1.png)
+![screenshot2](GameScreenShot-2.png)
+![screenshot3](GameScreenShot-3.png)
+![screenshot4](GameScreenShot-4.png)
+![screenshot5](GameScreenShot-5.png)
+
+*Thanks for checking out<sup>😇</sup>*
